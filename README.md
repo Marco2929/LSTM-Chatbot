@@ -1,8 +1,5 @@
 ## 🧠 Conversational Chatbot with Seq2Seq & Attention  
 **Deep Learning Project – Heilbronn University (SoSe 2024)**  
-**Marco Menner**  
-**Matrikelnummer: 208778**  
-**Language:** *German* 🇩🇪  
 **Notebook:** `conversational_chatbot.ipynb`  
 **⚠️ Note:** *No pre-trained model weights are included in this repository.*
 
