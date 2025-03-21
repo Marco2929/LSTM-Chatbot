@@ -1,0 +1,8 @@
+datasets
+jupyter
+torch
+torchvision
+torchaudio
+evaluate
+scikit-learn
+numpy==1.26.4
