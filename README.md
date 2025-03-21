@@ -1,7 +1,3 @@
-Sure! Here's a clean, professional-style `README.md` based on your notebook, following the same tone and structure as your previous YOLOv8 project — with a mention that it's in **German** and that **no model weights are included**.
-
----
-
 ## 🧠 Conversational Chatbot with Seq2Seq & Attention  
 **Deep Learning Project – Heilbronn University (SoSe 2024)**  
 **Marco Menner**  
