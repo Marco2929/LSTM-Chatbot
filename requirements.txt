@@ -1,8 +1,12 @@
 datasets
 jupyter
+tensorboard
 torch
 torchvision
 torchaudio
+-f https://download.pytorch.org/whl/torch_stable.html
 evaluate
 scikit-learn
 numpy==1.26.4
+transformers
+matplotlib
